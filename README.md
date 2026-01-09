@@ -18,14 +18,14 @@ After your account is created to can start creating your application without any
 ## &rarr; Final Result
 [Restaurant Recommender](https://partyrock.aws/u/tparrish/eWfnzmEst/FoodFinder-Pro%253A-AI-Restaurant-Recommender) - Enter in location, preferred cuisine and mealtime, then click the Play App button.
 
-![alt text](image-1.png)
+![alt text](restaurant-recommender-ui-inputs.png)
 
-![alt text](image-2.png)
+![alt text](restaurant-recommender-ui-results-recommendation-play.png)
 
 After the play button is clicked the user will get a list of restaurant along with an description and a picture of a dish that matches the user's input.
-![alt text](image-3.png)
+![alt text](restaurant-recommender-ui-results-recommendation.png)
 
-![alt text](image-4.png)
+![alt text](restaurant-recommender-ui-results-picture.png)
 
 
 ## 🛠️ Learnings and Challenges
