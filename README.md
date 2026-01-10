@@ -27,7 +27,3 @@ After the play button is clicked the user will get a list of restaurant along wi
 
 ![alt text](restaurant-recommender-ui-results-picture.png)
 
-
-## 🛠️ Learnings and Challenges
-
-At the moment partyrock is limitied in what it can do and it is constantly being refined. In the beginning I did not understand the workflow but after viewing a tutorial for 30 minutes I was up and running no time.
